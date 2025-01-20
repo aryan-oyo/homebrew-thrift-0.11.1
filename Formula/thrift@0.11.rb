@@ -2,7 +2,7 @@ class ThriftAT011 < Formula
   desc "Framework for scalable cross-language services development"
   homepage "https://thrift.apache.org"
   url "https://archive.apache.org/dist/thrift/0.11.0/thrift-0.11.0.tar.gz"
-  sha256 "c4ad38b6cb4a3498310d405a91fef37b9a8e79a50cd0968148ee2524d2fa60c2"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 "
   license "Apache-2.0"
 
   keg_only :versioned_formula
